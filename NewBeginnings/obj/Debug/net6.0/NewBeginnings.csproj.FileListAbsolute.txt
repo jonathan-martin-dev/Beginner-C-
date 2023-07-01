@@ -1,0 +1,15 @@
+C:\Users\jonat\Source\Repos\Beginner-C-\NewBeginnings\bin\Debug\net6.0\NewBeginnings.exe
+C:\Users\jonat\source\repos\Beginner-C-\NewBeginnings\bin\Debug\net6.0\NewBeginnings.deps.json
+C:\Users\jonat\source\repos\Beginner-C-\NewBeginnings\bin\Debug\net6.0\NewBeginnings.runtimeconfig.json
+C:\Users\jonat\Source\Repos\Beginner-C-\NewBeginnings\bin\Debug\net6.0\NewBeginnings.dll
+C:\Users\jonat\Source\Repos\Beginner-C-\NewBeginnings\bin\Debug\net6.0\NewBeginnings.pdb
+C:\Users\jonat\Source\Repos\Beginner-C-\NewBeginnings\obj\Debug\net6.0\NewBeginnings.csproj.AssemblyReference.cache
+C:\Users\jonat\Source\Repos\Beginner-C-\NewBeginnings\obj\Debug\net6.0\NewBeginnings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Source\Repos\Beginner-C-\NewBeginnings\obj\Debug\net6.0\NewBeginnings.AssemblyInfoInputs.cache
+C:\Users\jonat\Source\Repos\Beginner-C-\NewBeginnings\obj\Debug\net6.0\NewBeginnings.AssemblyInfo.cs
+C:\Users\jonat\Source\Repos\Beginner-C-\NewBeginnings\obj\Debug\net6.0\NewBeginnings.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Source\Repos\Beginner-C-\NewBeginnings\obj\Debug\net6.0\NewBeginnings.dll
+C:\Users\jonat\Source\Repos\Beginner-C-\NewBeginnings\obj\Debug\net6.0\refint\NewBeginnings.dll
+C:\Users\jonat\Source\Repos\Beginner-C-\NewBeginnings\obj\Debug\net6.0\NewBeginnings.pdb
+C:\Users\jonat\source\repos\Beginner-C-\NewBeginnings\obj\Debug\net6.0\NewBeginnings.genruntimeconfig.cache
+C:\Users\jonat\source\repos\Beginner-C-\NewBeginnings\obj\Debug\net6.0\ref\NewBeginnings.dll
