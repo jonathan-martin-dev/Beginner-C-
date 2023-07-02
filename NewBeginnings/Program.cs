@@ -13,6 +13,11 @@ internal class Program
         int sum = num1 + num2;
 
         Console.WriteLine(sum);
-        Console.Read();
+
+        float f1 = 3.145678f;
+        float f2 = 2.5423f;
+
+        float fDiv = f1 / f2;
+        Console.WriteLine(fDiv);
     }
 }
