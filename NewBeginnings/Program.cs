@@ -30,7 +30,7 @@ internal class Program
         Console.WriteLine(lowercaseMessage);
         Console.Read(); */
 
-        string name = "Jon";
+        /* string name = "Jon";
         string name2 = "Jack";
         int age = 35;
         int age2 = 55;
@@ -44,7 +44,24 @@ internal class Program
             Console.WriteLine("There is no spoon");
         }
         string sentence = $"{name} is {age} years old";
-        Console.WriteLine(sentence);
+        Console.WriteLine(sentence); */
+
+        // dna strand
+        string startStrand = "ATGCGATGAGCTTAC";
+
+        // find location of "tga"
+        int tga = startStrand.IndexOf("TGA");
+
+        // start point and stop point variables
+        int startPoint = 0;
+        int length = tga + 3;
+
+        // define final strand
+        string dna = startStrand.Substring(startPoint, length);
+
+        // DNA mutation search
+        Console.WriteLine(dna);
+        Console.WriteLine(dna[3]);
 
     }
 }
