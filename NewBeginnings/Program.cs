@@ -20,13 +20,31 @@ internal class Program
         float fDiv = f1 / f2;
         Console.WriteLine(fDiv);*/
 
-        string myname = "Jon";
+        /* string myname = "Jon";
         string message = "My name is " + myname;
 
         string capsMessage = message.ToUpper();
+        string lowercaseMessage = message.ToLower();
 
         Console.WriteLine(capsMessage);
-        Console.Read();
+        Console.WriteLine(lowercaseMessage);
+        Console.Read(); */
+
+        string name = "Jon";
+        string name2 = "Jack";
+        int age = 35;
+        int age2 = 55;
+
+        if (age < age2)
+        {
+            Console.WriteLine($"{name} is younger than {name2}");
+        }
+        else
+        {
+            Console.WriteLine("There is no spoon");
+        }
+        string sentence = $"{name} is {age} years old";
+        Console.WriteLine(sentence);
 
     }
 }
