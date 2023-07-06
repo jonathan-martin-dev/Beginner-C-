@@ -61,5 +61,20 @@ internal class Program
         // Print the story:
         Console.WriteLine(story);
 
+
+        bool beach = true;
+        bool city = false;
+        bool town = true;
+        bool farm = false;
+
+        if (beach)
+        {
+            city = true;
+        }
+        else
+        {
+            city = false;
+        }
+
     }
 }
