@@ -62,7 +62,7 @@ internal class Program
         Console.WriteLine(story);
 
 
-        bool beach = true;
+        /* bool beach = true;
         bool city = false;
         bool town = true;
         bool farm = false;
@@ -74,7 +74,10 @@ internal class Program
         else
         {
             city = false;
-        }
+        } */
+
+
+
 
     }
 }
